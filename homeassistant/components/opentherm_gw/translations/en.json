@@ -8,7 +8,7 @@
         "step": {
             "init": {
                 "data": {
-                    "device": "Path or URL",
+                    "device": "Path or IP/URL",
                     "id": "ID",
                     "name": "Name"
                 },
